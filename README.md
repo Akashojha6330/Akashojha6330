@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- GLASSMORPHISM ANIMATED HEADER SVG -->
-<img src="https://raw.githubusercontent.com/Akashojha6330/Akashojha6330/main/assets/header.svg" width="100%" alt="Akash Ojha"/>
+<!-- HEADER - Capsule Render (Animated + Works on GitHub) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,25:0a1628,75:0f2d5c,100:020817&height=280&section=header&text=Akash%20Ojha&fontSize=72&fontColor=58a6ff&fontAlignY=44&desc=ML%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Fintech%20Builder&descAlignY=62&descColor=8b98a9&animation=fadeIn&stroke=1f6feb&strokeWidth=1.5"/>
 
 <br/>
 
