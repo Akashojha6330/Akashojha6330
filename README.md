@@ -92,8 +92,8 @@ akash = {
 <div align="center">
 
 <!-- Trophies row -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Akashojha6330&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Akashojha6330&show_icons=true&theme=github_dark&border_color=1f6feb&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=15&include_all_commits=true&count_private=true&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashojha6330&layout=compact&theme=github_dark&border_color=1f6feb&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=15&langs_count=8" width="41%"/>
 <br/><br/>
 
 <!-- Stats cards -->
